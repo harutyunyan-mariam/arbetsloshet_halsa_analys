@@ -1,0 +1,16 @@
+.ipynb_checkpoints/README-checkpoint.md
+environment/.ipynb_checkpoints/readme-checkpoint.md
+.DS_Store
+environment/.ipynb_checkpoints/requirements-checkpoint.txt
+
+# .gitignore
+*.pyc
+__pycache__/
+data/processed/
+*.pkl
+*.h5
+.env/
+.gitattributes
+
+# Jupyter Notebook
+.ipynb_checkpoints/
