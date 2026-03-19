@@ -21,7 +21,7 @@ Det rekommenderas att använda en virtuell miljö (venv eller conda) för att s�
 4. Kör notebooken **uppifrån och ner**.
 
 ### För att reproducera resultaten:
-Klona repositoryt
-Installera nödvändiga beroenden
-Starta Jupyter Notebook
-Kör notebooken från början till slut utan att hoppa över celler
+1. Klona repositoryt
+2. Installera nödvändiga beroenden
+3. Starta Jupyter Notebook
+4. Kör notebooken från början till slut utan att hoppa över celler
