@@ -13,15 +13,10 @@ Det rekommenderas att använda en virtuell miljö (venv eller conda) för att s�
 
 ### Reproducerbarhet
 1. Installera Anaconda (eller Miniconda) som inkluderar Jupyter Notebook.
-2. Installera nödvändiga Python-paket:
+2. Klona repositoryt
+3. Installera nödvändiga Python-paket:
     ```bash
     pip install -r requirements.txt
     ```
-3. Öppna projektet i Jupyter Notebook.
-4. Kör notebooken **uppifrån och ner**.
-
-### För att reproducera resultaten:
-1. Klona repositoryt
-2. Installera nödvändiga beroenden
-3. Starta Jupyter Notebook
-4. Kör notebooken från början till slut utan att hoppa över celler
+4. Öppna projektet i Jupyter Notebook.
+5. Kör notebooken **uppifrån och ner**.
