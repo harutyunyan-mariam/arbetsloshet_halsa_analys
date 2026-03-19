@@ -1,11 +1,8 @@
 ## arbetsloshet_halsa_analys
 
 ### Om projektet
-Detta repository innehåller inlämningsuppgift 5 (HW5). Projektet är avsett att demonstrera förståelse för kursens centrala moment genom praktisk tillämpning i kod och analys. Arbetet är strukturerat för att vara tydligt, reproducerbart och enkelt att granska.
-Huvudinnehållet finns i en Jupyter Notebook som innehåller:
-Implementerad lösning enligt uppgiftens krav
-Eventuella beräkningar, experiment eller analyser
-Kommentarer och förklaringar som motiverar valda metoder
+I detta projekt undersöks sambandet mellan arbetslöshet, mental hälsa och befolkningsstruktur i Sveriges län över perioden 2008–2024. Studien använder data från SCB om arbetslöshet och medelfolkmängd och registerdata från Socialstyrelsen över patienter med psykiatriska diagnoser (F00–F99). Genom att kombinera dessa dataset skapas en heltäckande databas som möjliggör en analys av regionala skillnader och trender.
+Arbetet är strukturerat för att vara tydligt, reproducerbart och enkelt att granska.
 
 ### Miljökrav
 För att köra projektet lokalt krävs följande:
