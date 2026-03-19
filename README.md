@@ -1,4 +1,4 @@
-# harutyunyan-mariam-project
+## arbetsloshet_halsa_analys
 
 ### Om projektet
 Detta repository innehåller inlämningsuppgift 5 (HW5). Projektet är avsett att demonstrera förståelse för kursens centrala moment genom praktisk tillämpning i kod och analys. Arbetet är strukturerat för att vara tydligt, reproducerbart och enkelt att granska.
