@@ -1,4 +1,4 @@
-## arbetsloshet_halsa_analys
+## Arbetsloshet Hälsa Analys
 
 ### Om projektet
 I detta projekt undersöks sambandet mellan arbetslöshet, mental hälsa och befolkningsstruktur i Sveriges län över perioden 2008–2024. Studien använder data från SCB om arbetslöshet och medelfolkmängd och registerdata från Socialstyrelsen över patienter med psykiatriska diagnoser (F00–F99). Genom att kombinera dessa dataset skapas en heltäckande databas som möjliggör en analys av regionala skillnader och trender.
